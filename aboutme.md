@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to read my blog
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dev Gaur. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am working on **nothing**.😡
+- I am interested in **nothing**.😡
+- You can contact me **nowhere**.😡
 
-What else do you need?
+Just kidding!
 
-### My story
+- I am working on **building this fashion blog**.😎👓
+- I am interested in **latest fashion news and blogs**.💃👗
+- You can contact me on **Instagram**, **Facebook**, **Twitter**, and **Snapchat**. *No LinkedIn please*.❌
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+Sending good vibes and prayers your way. BLM for life✊🏿.
+
+Yours, \
+Dev😊
