@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want to read my blog
+share-img: /assets/img/banner.png
 ---
 
 My name is Dev Gaur. I have the following qualities:
