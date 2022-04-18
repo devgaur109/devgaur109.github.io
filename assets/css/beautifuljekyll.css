@@ -1000,6 +1000,10 @@ pre {
   margin: 0 auto;
 }
 
+.commentbox {
+  padding-top: 2.5em;
+}
+
 /* Search bar */
 #beautifuljekyll-search-overlay {
   display: none;
